@@ -2,7 +2,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-$ html/css
+``` html/css
 <!DOCTYPE html>
 <html>
     <head>
