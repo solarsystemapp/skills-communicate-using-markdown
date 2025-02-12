@@ -23,3 +23,7 @@
             alt = "c++" height = "300" width = "400">
     </body>
 </html>
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
